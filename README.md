@@ -1,4 +1,5 @@
 # changeModifier-FiveM
+[![Rejoignez-nous sur Discord](https://img.shields.io/badge/Discord-Rejoignez%20notre%20serveur-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/cdtdMUQ3DD)
 
 ![changeModifier](https://i.ibb.co/8YG0FKg/image.png)
 
@@ -48,4 +49,4 @@ AddEventHandler('changeModifier:applyModifier', function(modifier, handle)
 end)
 ```
 
-Rejoignez-nous sur discord : https://discord.gg/cdtdMUQ3DD
+[![Rejoignez-nous sur Discord](https://img.shields.io/badge/Discord-Rejoignez%20notre%20serveur-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/cdtdMUQ3DD)
