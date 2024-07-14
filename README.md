@@ -1,7 +1,5 @@
 # changeModifier-FiveM
 
-# changeModifier
-
 ![changeModifier](https://i.ibb.co/8YG0FKg/image.png)
 
 Bienvenue dans le projet **changeModifier** !
