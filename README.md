@@ -34,4 +34,18 @@ La commande principale est `/changemodifier`, qui peut prendre plusieurs argumen
 
 Pour plus d'informations, utilisez la commande `/changemodifier -i` dans le jeu.
 
+Il est également possible de déclencher un événement client avec comme argument obligatoire le nom du modificateur et comme argument optionnel la force :
+
+```lua
+RegisterNetEvent('changeModifier:applyModifier')
+AddEventHandler('changeModifier:applyModifier', function(modifier, handle)
+    if tonumber(handle) then
+        strength = handle
+    end
+    if modifier then
+        handleTimecycleModifier(modifier)
+    end
+end)
+```
+
 Rejoignez-nous sur discord : https://discord.gg/cdtdMUQ3DD
