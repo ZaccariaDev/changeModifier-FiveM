@@ -7,6 +7,7 @@ Bienvenue dans le projet **changeModifier** !
 ## Vidéo de démonstration
 
 Cliquez sur l'image ci-dessous pour regarder la démonstration vidéo :
+
 [![Regarder la vidéo](https://img.youtube.com/vi/AK1B8uVI6IY/0.jpg)](https://www.youtube.com/watch?v=AK1B8uVI6IY)
 
 ## Fonctionnement de changeModifier
